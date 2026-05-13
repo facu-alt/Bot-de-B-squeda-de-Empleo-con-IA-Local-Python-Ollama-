@@ -15,8 +15,8 @@ def guardar_visto(titulo):
         f.write(titulo + "\n")
 
 # === TUS LLAVES DE TELEGRAM ===
-TELEGRAM_TOKEN = "8301735650:AAFh6m-TcUcg4Yap7NnfUZwx5sAwxtXJ7X4"
-TELEGRAM_CHAT_ID = "1795184609"
+TELEGRAM_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+TELEGRAM_CHAT_ID = "xxxxxxxxxx"
 
 # === TUS PALABRAS CLAVE ===
 terminos_busqueda = [
