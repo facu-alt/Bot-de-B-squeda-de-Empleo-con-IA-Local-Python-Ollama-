@@ -21,7 +21,6 @@ TELEGRAM_CHAT_ID = "xxxxxxxxxx"
 # === TUS PALABRAS CLAVE ===
 terminos_busqueda = [
     "Data Analyst Junior", 
-    "Excel", 
     "Cientifico de Datos", 
     "Trainee Datos"
     "pasantia"
@@ -57,7 +56,7 @@ def buscar_en_linkedin():
                 print("\n[!] Acomodá LinkedIn y presioná ENTER en la terminal...")
                 input(">>> ")
             else:
-                print("⏳ Pausa táctica de 5s...")
+                print("⏳ Pausa de 5s...")
                 time.sleep(5)
 
             print("⏳ Bajando por la lista para cargar ofertas...")
